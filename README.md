@@ -20,6 +20,6 @@ Since the number of Epochs is small, I went with the Adam Optimizer as it tends 
 ## Getting Started
 * Get a Google Account [here](https://www.google.com/account/about/) to use Google Colab.
 
-* Test it using this [Google Colab Notebook.](https://colab.research.google.com/drive/1JlCd-EC7AatYjlFO1jLHTA80jKz6cnXr?authuser=0#scrollTo=YGRg7aBhfpwW)
+* Test it using this [Google Colab Notebook.](https://colab.research.google.com/drive/1JlCd-EC7AatYjlFO1jLHTA80jKz6cnXr)
 
 Note that the maximum number of Epochs is set to 40 in the notebook. Using a T4 GPU, it would take around 14 minutes for it run completely. The output from a `max_epochs` value of 40 has been included the notebook for easy viewing.

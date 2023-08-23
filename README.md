@@ -18,7 +18,7 @@ Since the number of Epochs is relatively small, I went with the Adam Optimizer a
 
 
 ## Getting Started
-* Get a Google Account [here](https://www.google.com/account/about/) to use Google Colab.
+* Get a Google Account [here](https://www.google.com/account/about/) to use [Google Colab.](https://colab.google/)
 
 * Test it using this [Google Colab Notebook.](https://colab.research.google.com/drive/1JlCd-EC7AatYjlFO1jLHTA80jKz6cnXr)
 

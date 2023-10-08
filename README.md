@@ -1,5 +1,5 @@
 # My-GAN
-My first ever rendition of Generative Adversarial Networks (GANs) which are a deep-learning-based generative model. GANs learn to generate new data with the same statistics as the training set. It consists of two networks, the Generator & the Discriminator, playing an adversarial game against each other. The Generator produces fake data to trick the the Discriminator whereas the Discriminator inspects the fake data & determines whether if it is real or fake. They are randomly initialised in the beginning & are trained simultaneously.
+My first-ever rendition of Generative Adversarial Networks (GANs) which are a deep-learning-based generative model. GANs learn to generate new data with the same statistics as the training set. It consists of two networks, the Generator & and the Discriminator, playing an adversarial game against each other. The Generator produces fake data to trick the Discriminator whereas the Discriminator inspects the fake data & and determines whether it is real or fake. They are randomly initialised in the beginning & and are trained simultaneously.
 
 
 ## Demo

@@ -3,7 +3,7 @@ My first-ever rendition of Generative Adversarial Networks (GANs) which are a de
 
 
 ## Demo
-I ran it for 100 Epochs using the [MNIST dataset,](https://en.wikipedia.org/wiki/MNIST_database) using the Adam Optimizer. The following shows a series of images produced by the generator as it was trained.
+I ran it for 100 Epochs using the [MNIST dataset](https://en.wikipedia.org/wiki/MNIST_database), using the Adam Optimizer. The following shows a series of images produced by the generator as it was trained.
 
 ![epochshowcase](https://github.com/omcodedthis/My-GAN/assets/119602009/da0a082b-0c38-4aa6-bb61-2539275aa8f4)
 
@@ -18,8 +18,8 @@ Since the number of Epochs is relatively small, I went with the Adam Optimizer a
 
 
 ## Getting Started
-* Get a Google Account [here](https://www.google.com/account/about/) to use [Google Colab.](https://colab.google/)
+* Get a Google Account [here](https://www.google.com/account/about/) to use [Google Colab](https://colab.google/).
 
-* Test it using this [Google Colab Notebook.](https://colab.research.google.com/drive/1JlCd-EC7AatYjlFO1jLHTA80jKz6cnXr)
+* Test it using this [Google Colab Notebook](https://colab.research.google.com/drive/1JlCd-EC7AatYjlFO1jLHTA80jKz6cnXr).
 
 Note that the maximum number of Epochs is set to 40 in the notebook. Using a T4 GPU, it would take around 14 minutes for it run completely. The output from a `max_epochs` value of 40 has been included the notebook for easy viewing.

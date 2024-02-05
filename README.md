@@ -10,11 +10,12 @@ I ran it for 100 Epochs using the [MNIST dataset](https://en.wikipedia.org/wiki/
 The images begin as random noise, and increasingly resemble hand written digits similar to the MNIST dataset over time.
 
 ## Adam vs SGD
-The Adaptive Moment Estimation (Adam) Optimizer & Stochastic Gradient Descent (SGD) are optimization techniques used to improve the model's performance. Below shows the data generated after 30 Epochs using both optimizers.
+The Adaptive Moment Estimation (Adam) Optimizer & Stochastic Gradient Descent (SGD) are optimization techniques used to improve the model's performance. Below shows the data generated after 30 Epochs using both optimizers:
 
 ![adamvsSGD](https://github.com/omcodedthis/My-GAN/assets/119602009/9c76189a-02be-48d0-b4b8-ca5a84c7760d)
 
-Since the number of Epochs is relatively small, I went with the Adam Optimizer as it tends to converge faster compared to the SGD Optimizer.
+Given how the number of Epochs is relatively small, I decided to go with with the Adam Optimizer (Adam) as it converged faster compared to the SGD Optimizer during my testing. There are more optimization algorithms available in the `torch.optim`
+package, which could have performed better & I suggest trying these out as well.
 
 
 ## Getting Started
